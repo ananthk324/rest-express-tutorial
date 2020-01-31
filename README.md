@@ -1,2 +1,2 @@
 # rest-express-tutorial
-learning REST with Express and Node
+learning REST implementation using Node and Express
